@@ -1,0 +1,13 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Jun 30 15:51:27 2025 
+Best design point: 1
+Design specs: 
+	cg_PLL_pll_cp_ota_tb_1	corner	Nominal - 
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Mon Jun 30 15:51:32 2025 

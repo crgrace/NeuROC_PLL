@@ -1,0 +1,13 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Jul  1 10:06:05 2025 
+Best design point: 1
+Design specs: 
+	cg_PLL_tx_shift_register_tb_1	corner	Nominal - 
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Tue Jul  1 10:08:50 2025 

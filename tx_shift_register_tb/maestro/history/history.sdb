@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Jul 1 10:06:05 2025</timestamp>
+			<uuid>{648db083-c5d5-4816-9c4f-c5ee173c09af}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/lxusers/c/crgrace/projects/65nm/NeuROC/workspace_lbnl/design/virtuoso/cadence_libs/cg_PLL/tx_shift_register_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/lxusers/c/crgrace/projects/65nm/NeuROC/workspace_lbnl/design/virtuoso/cadence_libs/cg_PLL/tx_shift_register_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/lxusers/c/crgrace/simulation/cg_PLL/tx_shift_register_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/cg_PLL/tx_shift_register_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+	</history>
+</setupdb>

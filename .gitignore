@@ -1,0 +1,15 @@
+
+*.log
+\.cadence/
+simulation/
+*cdslck*
+*\.tmp*
+*.swp
+*.wrn
+*.nfs*
+*.oacache
+network.vldb*
+.pcdb/
+**/maestro/history/
+**/maestro/results/
+**/physConfig/
